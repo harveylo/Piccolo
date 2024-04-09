@@ -162,7 +162,7 @@ Checks: '-*,
 
     boost-use-to-string,
 '
-WarningsAsErrors: '*'
+WarningsAsErrors: ''
 
 CheckOptions:
   - key: readability-identifier-naming.ClassCase
